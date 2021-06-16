@@ -32,4 +32,4 @@ H0: The mean power of the machine of MechaCar is =<  to the mean mean power of t
 
 HA: The mean power of the machine of MechaCar is > the mean power of the machine of the population
 
-The hypothesis test can help customers can better understand our car before making decision. Customers can also see the strengths of MechaCar compared to other competitors. It looks like a way to do marketing that makes it possible to sell more cars in the future.
+The hypothesis test can help customers better understand our MechaCar before making decision. Customers can also see the strengths of MechaCar compared to other competitors. It looks like a way to do marketing that makes it possible to sell more cars in the future.
