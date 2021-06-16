@@ -6,7 +6,7 @@
 
 # Linear Regression
 
-![linear](images/D1_Perform_linear regression.png)
+![linear](images/D1_Perform_linear_regression.png)
 
 
 #          Lot Summary                vs                       Total Summary
